@@ -1,2 +1,2 @@
 # okh-identity
-Logos and colorschemes for the OpenKnowHow organization.
+Logos and color schemes for the OpenKnowHow organization.
