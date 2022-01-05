@@ -1,6 +1,6 @@
-# okh-visual-identity
+# iop-visual-identity
 
-Logos, fonts and color schemes for the OpenKnowHow organization.
+Logos, fonts and color schemes for the Internet of Production Alliance.
 
 ## Logos
 
