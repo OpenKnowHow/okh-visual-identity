@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="104.18938mm"
+   height="74.184746mm"
+   viewBox="0 0 104.18938 74.184746"
+   version="1.1"
+   id="svg8404"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="IOP-OKH-A-writing-as-font.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8406"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     lock-margins="true"
+     fit-margin-top="3.5"
+     fit-margin-left="3.5"
+     fit-margin-right="3.5"
+     fit-margin-bottom="3.5"
+     inkscape:zoom="1.6895256"
+     inkscape:cx="114.23325"
+     inkscape:cy="237.34473"
+     inkscape:window-width="1920"
+     inkscape:window-height="1063"
+     inkscape:window-x="0"
+     inkscape:window-y="17"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8401" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.788789,-45.944413)">
+    <g
+       id="g8384"
+       transform="matrix(0.26458333,0,0,0.26458333,54.782872,-222.69554)">
+      <path
+         d="m 213.366,1161.56 -61.837,-61.86 c 6.115,-15.63 2.718,-33.99 -10.194,-46.9 -13.59,-13.6 -33.976,-16.32 -50.2853,-8.84 l 29.2203,29.23 -20.3863,20.39 -29.8996,-29.23 c -8.1544,16.32 -4.7568,36.71 8.834,50.31 12.9112,12.91 31.2589,16.31 46.8879,10.19 l 61.838,61.86 c 2.718,2.72 6.795,2.72 9.513,0 l 15.63,-15.63 c 3.398,-2.72 3.397,-7.48 0.679,-9.52 z"
+         stroke="#41454b"
+         id="path142"
+         style="fill:none;stroke-width:4" />
+      <path
+         d="m 200.706,1132.79 v -6.57 l 2.245,-2.33 c 9.479,8.15 21.786,13.06 35.173,13.06 29.851,0 54.048,-24.2 54.048,-54.06 0,-29.86 -24.197,-54.07 -54.048,-54.07 -29.851,0 -54.048,24.21 -54.048,54.07 0,13.39 4.906,25.7 13.055,35.18 l -2.328,2.25 h -6.569 l -58.011,52.09 12.389,12.39 z m 0,-49.9 c 0,-20.71 16.713,-37.43 37.418,-37.43 20.705,0 37.418,16.72 37.418,37.43 0,20.71 -16.713,37.43 -37.418,37.43 -20.705,0 -37.418,-16.72 -37.418,-37.43 z"
+         fill="#41454b"
+         stroke="#41454b"
+         stroke-width="0.519073"
+         id="path144" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:100%;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';letter-spacing:0px;word-spacing:0px;fill:#808080;stroke-width:1"
+       x="52.861332"
+       y="115.1132"
+       id="text1027-6"><tspan
+         sodipodi:role="line"
+         id="tspan1025-1"
+         x="52.861332"
+         y="115.1132"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';fill:#808080;stroke-width:1">Open Know-How Discoverability</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.2306px;line-height:100%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:1"
+       x="75.725067"
+       y="104.48736"
+       id="text1027-35"><tspan
+         sodipodi:role="line"
+         id="tspan1025-62"
+         x="75.725067"
+         y="104.48736"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.2306px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#4d4d4d;stroke-width:1">IOP-OKH-A</tspan></text>
+  </g>
+</svg>
